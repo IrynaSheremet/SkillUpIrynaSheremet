@@ -11,6 +11,7 @@ public class Main {
 
             System.out.println(ex.getMessage());
             System.out.println(ex.getNumber());
+
         }
     }
 }
